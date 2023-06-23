@@ -7,4 +7,6 @@ Hi 👋, I'm **Aditya Kumar Pandey**
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white)
 
-## Go Live: [Live](https://aaditya0pf0.netlify.app/)
+### Go Live: [Live](https://aaditya0pf0.netlify.app/)
+or
+### [Live](https://adityapandey1111.github.io/My-Portfolio/)
