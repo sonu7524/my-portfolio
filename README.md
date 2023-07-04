@@ -1,4 +1,4 @@
-# Hi 👋, I'm **Aditya Kumar Pandey**
+# Hi 👋, I'm **Sonu Daryani**
 ## This is my portfolio Webpage
 
 ## 💻 Tech Stack used:
