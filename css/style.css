@@ -22,6 +22,10 @@ body {
   display: block;
 }
 
+#profile{
+  width: 100%;
+}
+
 a {
   color: #0bceaf;
   text-decoration: none;
