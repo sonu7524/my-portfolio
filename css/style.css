@@ -8,7 +8,7 @@ html {
   font-family: sans-serif;
   line-height: 1.15;
   -webkit-text-size-adjust: 100%;
-  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  -webkit-tap-highlight-color: rgb(255, 255, 255);
 }
 
 body {
@@ -20,6 +20,7 @@ body {
   color: #6c757d;
   text-align: left;
   display: block;
+  background-color: #021429;
 }
 
 #profile{
@@ -104,6 +105,11 @@ p {
 }
 
 /*===================== Home section ======================*/
+
+.header{
+  background-color: #021429 !important;
+  box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);
+}
 
 .about-img {
   margin-left: -100px;
